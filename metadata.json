@@ -1,0 +1,6 @@
+{
+  "name": "WishCraft - Custom Birthday Celebration Studio",
+  "description": "Personalize and share magical birthday celebration experiences with custom names, ages, themes, music soundtracks, and interactive candle blowing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
